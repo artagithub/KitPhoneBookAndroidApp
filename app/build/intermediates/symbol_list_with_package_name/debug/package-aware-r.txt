@@ -1548,6 +1548,7 @@ id listMode
 id list_item
 id loginButton
 id loginInput
+id logo
 id masked
 id materialToolbar
 id message
