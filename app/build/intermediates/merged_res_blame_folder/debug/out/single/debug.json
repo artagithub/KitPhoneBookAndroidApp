@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_item.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\layout\\activity_update_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_item.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\layout\\activity_add_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_center_listview.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\layout\\text_center_listview.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_forever_24.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\drawable\\ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_white_24px.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\drawable\\ic_arrow_white_24px.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_main.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\layout\\item_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_details.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\layout\\activity_account_details.xml"
+    },
+    {
+        "merged": "G:\\AndroidPro\\kit-phonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\AndroidPro\\kit-phonebook\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

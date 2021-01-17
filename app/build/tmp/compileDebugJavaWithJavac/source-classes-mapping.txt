@@ -1,0 +1,11 @@
+com/sematec/basic/room/AppDatabase_Impl.java
+ com.sematec.basic.room.AppDatabase_Impl
+ com.sematec.basic.room.AppDatabase_Impl$1
+ir/kit/phonebook/room/KitGithubAccountDAO_Impl.java
+ ir.kit.phonebook.room.KitGithubAccountDAO_Impl
+ ir.kit.phonebook.room.KitGithubAccountDAO_Impl$1
+ ir.kit.phonebook.room.KitGithubAccountDAO_Impl$2
+ ir.kit.phonebook.room.KitGithubAccountDAO_Impl$3
+ ir.kit.phonebook.room.KitGithubAccountDAO_Impl$4
+ir/kit/phonebook/BuildConfig.java
+ ir.kit.phonebook.BuildConfig
