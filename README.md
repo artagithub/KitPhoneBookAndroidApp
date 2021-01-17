@@ -19,5 +19,5 @@ This is the sample application that was written in Kotlin programing language. T
 
 ## Assembling the application 
 For assembling the application run :
-**./gradlew assemble**
-then install the debug version of the application in release/output folder
+<br />**./gradlew assemble**
+<br />then install the debug version of the application in release/output folder
